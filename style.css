@@ -1,0 +1,56 @@
+*{
+    border: 2px dashed red
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 20px;
+}
+body{
+    background-image: linear-gradient(red,blue,indigo,white);
+
+}
+hr{
+    color: darkgreen
+}
+
+div{
+    color: indigo;
+}
+.umer:hover{
+    border: 5px solid navy;
+    transition: 0.5s;
+    transform: scale(2.0);
+    align-items: center;
+
+
+
+}
+
+.barka:hover{
+    border: 5px solid skyblue;
+    transition: 0.5s;
+    transform: scale(2.0);
+    display: inline
+
+}
+.amaan:hover{
+    border: 3px groove blueviolet;
+    transition: 0.5s;
+    transform: scale(2.0);
+
+}
+.imad:hover{
+    border-radius: 50px;
+    transition: 0.5s;
+    transform: scale(2.0);
+}
+
+
+
+button{
+    color:white;
+    margin-left: 500px;
+    font-style: italic;
+    font-size: xx-large;
+    font-variant: small-caps;
+    background-color: black;
+}
